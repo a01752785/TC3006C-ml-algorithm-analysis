@@ -1,6 +1,6 @@
 """
 This python script performs an analysis of the performance of the
-Decision Tree Regressor for only one variable, in such a way that 
+Decision Tree Regressor for only one variable, in such a way that
 Author: David Damian Galan
 Date: Sep 9, 2023
 """
